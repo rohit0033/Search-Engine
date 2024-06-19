@@ -60,7 +60,7 @@ This command will start the Node.js application. You should see output indicatin
 
 2. **API Testing:**
 
-We recommend using Postman for API testing. You can import our Postman collection by clicking [here](#) [Provide a link to download or import the Postman collection]. This collection contains pre-configured requests to test various endpoints of our application.
+We recommend using Postman for API testing. 
 
 ## Contributing
 
